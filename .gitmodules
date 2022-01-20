@@ -1,0 +1,3 @@
+[submodule "submodules/idlparser"]
+	path = submodules/idlparser
+	url = https://github.com/edwardbr/idlparser.git
